@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: front-end
-        image: 648064107398.dkr.ecr.us-west-2.amazonaws.com/fortend:latest
+        image: 648064107398.dkr.ecr.us-west-2.amazonaws.com/fortend:0.1
         resources:
           limits:
             cpu: 300m
